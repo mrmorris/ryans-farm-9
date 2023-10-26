@@ -3,3 +3,4 @@
 ----
 
 * Sound: moo
+* Color: Spotty
