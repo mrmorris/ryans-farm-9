@@ -1,6 +1,6 @@
 # The Barn
 
-Made of wood
+Made of cedar.
 
 ---
 
