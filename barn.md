@@ -8,4 +8,6 @@ Made of wood
 * [Cows](./cows.md)
 * [Sheep](./sheep.md)
 
+[Coop](./coop.md)
+
 Copyright 2023
