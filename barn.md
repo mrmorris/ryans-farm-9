@@ -1,5 +1,7 @@
 # The Barn
 
+Made of wood
+
 ---
 
 * [Cats](./cats.md)
