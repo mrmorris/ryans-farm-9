@@ -4,8 +4,10 @@ Made of cedar.
 
 ---
 
+* [Sheep](./sheep.md)
 * [Cats](./cats.md)
 * [Cows](./cows.md)
-* [Sheep](./sheep.md)
+
+---
 
 Copyright 2023
