@@ -1,4 +1,4 @@
-# The Barn
+# The Barn: An awful place
 
 Made of cedar.
 
@@ -13,4 +13,4 @@ Made of cedar.
 ----
 
 
-Copyright 2023
+Copyright 2020
