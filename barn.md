@@ -10,6 +10,6 @@ Made of cedar.
 
 ---
 
-[Coop](./coop.md)
+[Coop](./coop.md) has three chickens
 
 Copyright 2023
