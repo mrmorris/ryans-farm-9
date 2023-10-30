@@ -1,12 +1,14 @@
 # The Barn
 
-Made of wood
+Made of cedar.
 
 ---
 
+* [Sheep](./sheep.md)
 * [Cats](./cats.md)
 * [Cows](./cows.md)
-* [Sheep](./sheep.md)
+
+---
 
 [Coop](./coop.md)
 
